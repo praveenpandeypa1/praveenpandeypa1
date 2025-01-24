@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Data Structures and Algorithm(DSA) and solving Competitive Programming challenges, Full Stack Development, Frontend Development, Backend Development, JAVA, C++,JAVASCRIPT,AWS,Databases(Sql,NoSql)**
 
-- 📫 How to reach me **praveenpandeypandey034@gmail.com**  
+- 📫 How to reach me **praveenpandeypandey034@gmail.com**     
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
